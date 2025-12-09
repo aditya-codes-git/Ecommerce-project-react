@@ -1,6 +1,6 @@
-import './Orders.css'
+import './OrdersPage.css'
 
-export function Orders() {
+export function OrdersPage() {
   return (
     <>
       <title>Orders</title>
