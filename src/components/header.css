@@ -147,3 +147,10 @@
   width: 26px;
   text-align: center;
 }
+
+.header-link{
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+  margin-left: 30px;
+}
